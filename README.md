@@ -19,6 +19,7 @@ Este repositório contém as aulas e exemplos práticos do curso de Golang, orga
     - [Aula 9: Operadores](#aula-9-operadores)
     - [Aula 10: Structs](#aula-10-structs)
     - [Aula 11: "Herança"](#aula-11-herança)
+    - [Aula 12: Ponteiros](#aula-12-ponteiros)
   - [Como Contribuir](#como-contribuir)
   - [Licença](#licença)
   - [Contato](#contato)
@@ -109,6 +110,17 @@ Siga as instruções abaixo para configurar o ambiente de desenvolvimento para G
 - Instanciando structs compostos
 - Acessando campos de structs compostos
 - Benefícios da composição
+
+### Aula 12: Ponteiros
+
+**Descrição:** Introdução aos ponteiros em Go, explicando o conceito de ponteiros como referências de memória e como utilizá-los para acessar e modificar dados diretamente.
+
+**Tópicos Cobertos:**
+
+- Declaração e inicialização de ponteiros
+- Atribuição de endereços de memória a ponteiros
+- Desreferenciação de ponteiros
+- Exemplos práticos de uso de ponteiros
 
 ## Como Contribuir
 

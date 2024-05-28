@@ -15,6 +15,7 @@ Este repositório contém as aulas e exemplos práticos do curso de Golang, orga
     - [Aula 4: Trabalhando com Pacotes em Go](#aula-4-trabalhando-com-pacotes-em-go)
     - [Aula 5: Adicionando Pacotes Externos](#aula-5-adicionando-pacotes-externos)
     - [Aula 6: Variáveis, Constantes e Tipos de Dados](#aula-6-variáveis-constantes-e-tipos-de-dados)
+    - [Aula 8: Funções](#aula-8-funções)
   - [Como Contribuir](#como-contribuir)
   - [Licença](#licença)
   - [Contato](#contato)
@@ -56,6 +57,19 @@ Siga as instruções abaixo para configurar o ambiente de desenvolvimento para G
 ### Aula 6: Variáveis, Constantes e Tipos de Dados
 
 **Descrição:** Explicação detalhada sobre variáveis, constantes e tipos de dados em Go, abordando inteiros, floats, strings, booleanos e o tipo `error`.
+
+### Aula 8: Funções
+
+**Descrição:** Introdução às funções em Go, incluindo definição, chamada, e uso de funções como variáveis. Também foi abordado como as funções podem retornar múltiplos valores e como ignorar valores retornados.
+
+**Tópicos Cobertos:**
+
+- Definindo funções em Go
+- Parâmetros e retorno de funções
+- Chamando funções
+- Funções como variáveis
+- Funções com múltiplos retornos
+- Ignorando valores retornados
 
 ## Como Contribuir
 

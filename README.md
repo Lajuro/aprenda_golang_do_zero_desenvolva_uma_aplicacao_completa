@@ -16,6 +16,7 @@ Este repositório contém as aulas e exemplos práticos do curso de Golang, orga
     - [Aula 5: Adicionando Pacotes Externos](#aula-5-adicionando-pacotes-externos)
     - [Aula 6: Variáveis, Constantes e Tipos de Dados](#aula-6-variáveis-constantes-e-tipos-de-dados)
     - [Aula 8: Funções](#aula-8-funções)
+    - [Aula 9: Operadores](#aula-9-operadores)
   - [Como Contribuir](#como-contribuir)
   - [Licença](#licença)
   - [Contato](#contato)
@@ -70,6 +71,19 @@ Siga as instruções abaixo para configurar o ambiente de desenvolvimento para G
 - Funções como variáveis
 - Funções com múltiplos retornos
 - Ignorando valores retornados
+
+### Aula 9: Operadores
+
+**Descrição:** Introdução aos operadores em Go, cobrindo operadores aritméticos, de atribuição, relacionais, lógicos e unitários. Também foi discutida a ausência do operador ternário e como substituí-lo com `if`.
+
+**Tópicos Cobertos:**
+
+- Operadores aritméticos: +, -, *, /, %
+- Operadores de atribuição: =, :=, +=, -=, *=, /=
+- Operadores relacionais: ==, !=, >, <, >=, <=
+- Operadores lógicos: &&, ||, !
+- Operadores unitários: ++, --
+- Substituição do operador ternário com `if`
 
 ## Como Contribuir
 

@@ -18,6 +18,7 @@ Este repositório contém as aulas e exemplos práticos do curso de Golang, orga
     - [Aula 8: Funções](#aula-8-funções)
     - [Aula 9: Operadores](#aula-9-operadores)
     - [Aula 10: Structs](#aula-10-structs)
+    - [Aula 11: "Herança"](#aula-11-herança)
   - [Como Contribuir](#como-contribuir)
   - [Licença](#licença)
   - [Contato](#contato)
@@ -96,6 +97,18 @@ Siga as instruções abaixo para configurar o ambiente de desenvolvimento para G
 - Instanciando structs
 - Valor zero de structs
 - Structs aninhados
+
+### Aula 11: "Herança"
+
+**Descrição:** Introdução ao conceito de pseudo-herança em Go utilizando structs. Em Go, a herança tradicional de linguagens OO é substituída pela composição de structs.
+
+**Tópicos Cobertos:**
+
+- Definindo structs base e derivados
+- Composição de structs
+- Instanciando structs compostos
+- Acessando campos de structs compostos
+- Benefícios da composição
 
 ## Como Contribuir
 

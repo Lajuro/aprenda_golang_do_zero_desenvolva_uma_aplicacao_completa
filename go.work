@@ -1,3 +1,7 @@
 go 1.22.3
 
-use ./02_variaveis
+use (
+	./01_pacotes
+	./02_variaveis
+	./03_tipos_de_dados
+)

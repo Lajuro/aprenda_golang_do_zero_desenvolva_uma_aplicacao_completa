@@ -20,6 +20,7 @@ Este repositório contém as aulas e exemplos práticos do curso de Golang, orga
     - [Aula 10: Structs](#aula-10-structs)
     - [Aula 11: "Herança"](#aula-11-herança)
     - [Aula 12: Ponteiros](#aula-12-ponteiros)
+    - [Aula 13: Arrays e Slices](#aula-13-arrays-e-slices)
   - [Como Contribuir](#como-contribuir)
   - [Licença](#licença)
   - [Contato](#contato)
@@ -121,6 +122,20 @@ Siga as instruções abaixo para configurar o ambiente de desenvolvimento para G
 - Atribuição de endereços de memória a ponteiros
 - Desreferenciação de ponteiros
 - Exemplos práticos de uso de ponteiros
+
+### Aula 13: Arrays e Slices
+
+**Descrição:** Introdução a arrays e slices em Go, explicando a diferença entre essas duas estruturas de dados e como utilizá-las.
+
+**Tópicos Cobertos:**
+
+- Declaração e inicialização de arrays
+- Acesso e modificação de elementos em arrays
+- Declaração e inicialização de slices
+- Adição de elementos a slices usando a função `append`
+- Criação de slices a partir de arrays
+- Uso da função `reflect.TypeOf` para verificar o tipo de uma variável
+- Compreensão de slices como ponteiros para arrays subjacentes
 
 ## Como Contribuir
 

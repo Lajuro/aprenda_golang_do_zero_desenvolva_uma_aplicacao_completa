@@ -9,4 +9,5 @@ use (
 	./06_structs
 	./07_heranca
 	./08_ponteiros
+	./09_arrays_slices
 )

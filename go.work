@@ -6,4 +6,5 @@ use (
 	./03_tipos_de_dados
 	./04_funcoes
 	./05_operadores
+	./06_structs
 )

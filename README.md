@@ -17,6 +17,7 @@ Este repositório contém as aulas e exemplos práticos do curso de Golang, orga
     - [Aula 6: Variáveis, Constantes e Tipos de Dados](#aula-6-variáveis-constantes-e-tipos-de-dados)
     - [Aula 8: Funções](#aula-8-funções)
     - [Aula 9: Operadores](#aula-9-operadores)
+    - [Aula 10: Structs](#aula-10-structs)
   - [Como Contribuir](#como-contribuir)
   - [Licença](#licença)
   - [Contato](#contato)
@@ -84,6 +85,17 @@ Siga as instruções abaixo para configurar o ambiente de desenvolvimento para G
 - Operadores lógicos: &&, ||, !
 - Operadores unitários: ++, --
 - Substituição do operador ternário com `if`
+
+### Aula 10: Structs
+
+**Descrição:** Introdução aos structs em Go, a estrutura de dados que permite agrupar múltiplos campos. Um struct é semelhante a uma classe em linguagens orientadas a objetos, mas sem suporte a métodos ou herança.
+
+**Tópicos Cobertos:**
+
+- Definindo structs
+- Instanciando structs
+- Valor zero de structs
+- Structs aninhados
 
 ## Como Contribuir
 

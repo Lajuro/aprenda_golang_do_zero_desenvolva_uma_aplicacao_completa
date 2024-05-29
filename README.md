@@ -23,6 +23,7 @@ Este repositório contém as aulas e exemplos práticos do curso de Golang, orga
     - [Aula 13: Arrays e Slices](#aula-13-arrays-e-slices)
     - [Aula 14: Arrays Internos](#aula-14-arrays-internos)
     - [Aula 15: Maps](#aula-15-maps)
+    - [Aula 16: Estruturas de Controle - `if` e `else`](#aula-16-estruturas-de-controle---if-e-else)
   - [Como Contribuir](#como-contribuir)
   - [Licença](#licença)
   - [Contato](#contato)
@@ -164,6 +165,18 @@ Siga as instruções abaixo para configurar o ambiente de desenvolvimento para G
 - Deletando chaves de maps
 - Aninhamento de maps
 - Exemplos práticos de manipulação de maps
+
+### Aula 16: Estruturas de Controle - `if` e `else`
+
+**Descrição:** Introdução às estruturas de controle `if` e `else` em Go, com explicação sobre o uso de variáveis inicializadas dentro da condição `if` (conhecido como "if with short statement").
+
+**Tópicos Cobertos:**
+
+- Sintaxe básica do `if` e `else` em Go
+- Declaração e inicialização de variáveis dentro do `if`
+- Uso de `else if` para múltiplas condições
+- Escopo de variáveis declaradas dentro do `if`
+- Exemplos práticos de controle de fluxo
 
 ## Como Contribuir
 

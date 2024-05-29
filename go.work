@@ -12,4 +12,5 @@ use (
 	./09_arrays_slices
 	./10_arrays_internos
 	./11_maps
+	./12_estruturas_de_controle
 )

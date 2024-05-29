@@ -10,4 +10,6 @@ use (
 	./07_heranca
 	./08_ponteiros
 	./09_arrays_slices
+	./10_arrays_internos
+	./11_maps
 )

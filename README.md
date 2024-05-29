@@ -21,6 +21,7 @@ Este repositório contém as aulas e exemplos práticos do curso de Golang, orga
     - [Aula 11: "Herança"](#aula-11-herança)
     - [Aula 12: Ponteiros](#aula-12-ponteiros)
     - [Aula 13: Arrays e Slices](#aula-13-arrays-e-slices)
+    - [Aula 14: Arrays Internos](#aula-14-arrays-internos)
   - [Como Contribuir](#como-contribuir)
   - [Licença](#licença)
   - [Contato](#contato)
@@ -136,6 +137,18 @@ Siga as instruções abaixo para configurar o ambiente de desenvolvimento para G
 - Criação de slices a partir de arrays
 - Uso da função `reflect.TypeOf` para verificar o tipo de uma variável
 - Compreensão de slices como ponteiros para arrays subjacentes
+
+### Aula 14: Arrays Internos
+
+**Descrição:** Explicação sobre a função `make` e como arrays internos funcionam em Go, incluindo o relacionamento entre slices e arrays.
+
+**Tópicos Cobertos:**
+
+- Uso da função `make` para alocar memória
+- Diferença entre tamanho e capacidade de slices
+- Crescimento dinâmico de slices
+- Entendimento de arrays internos e como slices referenciam arrays subjacentes
+- Exemplos práticos e uso das funções `len` e `cap`
 
 ## Como Contribuir
 

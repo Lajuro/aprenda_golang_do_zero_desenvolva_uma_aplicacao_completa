@@ -24,6 +24,7 @@ Este repositório contém as aulas e exemplos práticos do curso de Golang, orga
     - [Aula 14: Arrays Internos](#aula-14-arrays-internos)
     - [Aula 15: Maps](#aula-15-maps)
     - [Aula 16: Estruturas de Controle - `if` e `else`](#aula-16-estruturas-de-controle---if-e-else)
+    - [Aula 17: Estrutura de Controle - `switch`](#aula-17-estrutura-de-controle---switch)
   - [Como Contribuir](#como-contribuir)
   - [Licença](#licença)
   - [Contato](#contato)
@@ -177,6 +178,18 @@ Siga as instruções abaixo para configurar o ambiente de desenvolvimento para G
 - Uso de `else if` para múltiplas condições
 - Escopo de variáveis declaradas dentro do `if`
 - Exemplos práticos de controle de fluxo
+
+### Aula 17: Estrutura de Controle - `switch`
+
+**Descrição:** Introdução à estrutura de controle `switch` em Go, uma alternativa mais limpa e visual ao `if-else` para avaliar múltiplas condições.
+
+**Tópicos Cobertos:**
+
+- Sintaxe básica do `switch`
+- Uso da cláusula `default`
+- Utilização do `switch` sem expressão
+- Cláusula `fallthrough` para forçar a execução do próximo caso
+- Exemplos práticos de `switch`
 
 ## Como Contribuir
 
